@@ -37,7 +37,7 @@ The app requires several permissions to function correctly:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/LPUWiFI.git
+   git clone https://github.com/vanshtyagi001/lpu-wifi
    ```
 2. Open the project in **Android Studio**.
 3. Build and run the app on your device or emulator (Android 8.0+ recommended).
